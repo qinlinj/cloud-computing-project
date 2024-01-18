@@ -1,3 +1,3 @@
-# Cloud Computing
+# Cloud Computing Projects
 
-All projects in course Cloud Computing (15619) in CMU
+Compilation of projects from the Cloud Computing (15619) course at Carnegie Mellon University (CMU).
